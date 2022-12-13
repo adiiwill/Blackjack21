@@ -83,7 +83,7 @@ namespace Blackjack21
                 }
                 else
                 {
-                    if (x - 1 < choices.Length) return choices[x - 1].ToLower();
+                    if (x >= 1 && x - 1 < choices.Length) return choices[x - 1].ToLower();
                 }
             } while (error != false);
 
