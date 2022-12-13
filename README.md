@@ -29,5 +29,5 @@ Szintet csak akkor léphet a játékos ha elérte a következő szinthez szüks�
 - **Ha BLACKJACK-et kap:** végeredményhez hozzáadott _+3xp_
 
 \
-Ha bármiféle hibát tapasztal kérem keressen meg:
+Elérhetőség:
 > gazdagadam@gmail.com
