@@ -1,5 +1,5 @@
 # Blackjack 21
-[Eng](###english) / [Hun](###hungarian) 
+[Eng](#english) / [Hun](#hungarian) 
 
 ### ENGLISH
 ---
