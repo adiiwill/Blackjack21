@@ -1,7 +1,8 @@
 # Blackjack 21
+[Eng](###english) / [Hun](###hungarian) 
 
-### /// ENGLISH ///
-
+### ENGLISH
+---
 The game has a menu with 3 options:
 - **Play**
 - **Statistics**
@@ -28,8 +29,8 @@ Contact:
 > gazdagadam@gmail.com
 
 
-### /// HUNGARIAN ///
-
+### HUNGARIAN
+---
 A játéknak van egy menüje 3 lehetőséggel:
 - **Játék**
 - **Statisztikák**
