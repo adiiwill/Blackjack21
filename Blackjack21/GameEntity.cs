@@ -21,14 +21,11 @@ namespace Blackjack21
 
         public string Name
         {
-            get
-            {
-                return name;
-            }
+            get { return name; }
         }
 
         /// <summary>
-        /// The value of the Entity's hand.
+        /// The value of the Entity's hand. (Hidden cards not included)
         /// </summary>
         public int handValue
         {
@@ -42,6 +39,10 @@ namespace Blackjack21
                 return sum;
             }
         }
+
+        /// <summary>
+        /// The true value of the Entity's hand. (Hidden cards included)
+        /// </summary>
         public int trueHandValue
         {
             get
@@ -65,6 +66,11 @@ namespace Blackjack21
             hand.Add(card);
             card.isDrawn = true;
         }
+
+        /// <summary>
+        /// Decides the ace value.
+        /// </summary>
+        /// <param name="value">The value to change the ace to.</param>
         public void SetAceValue(int value)
         {
             foreach (var c in hand)

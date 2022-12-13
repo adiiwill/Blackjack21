@@ -5,7 +5,7 @@
         private string name;
         private int value;
         private bool isUpsideDown = false;
-        private bool drawn = false;
+        private bool is_drawn = false;
 
         public Card(string name, int value)
         {
@@ -15,42 +15,24 @@
 
         public string Name
         {
-            get
-            {
-                return name;
-            }
-            set
-            {
-                name = value;
-            }
+            get { return name; }
+            set { name = value; }
         }
         public int Value
         {
-            get
-            {
-                return value;
-            }
+            get { return value; }
 
-            set
-            {
-                this.value = value; 
-            }
+            set { this.value = value; }
         }
         public bool isHidden
         {
-            get
-            {
-                return isUpsideDown;
-            }
-            set
-            {
-                isUpsideDown = value;
-            }
+            get { return isUpsideDown; }
+            set { isUpsideDown = value; }
         }
         public bool isDrawn
         {
-            get { return drawn; }
-            set { drawn = value; }
+            get { return is_drawn; }
+            set { is_drawn = value; }
         }
     }
 }
