@@ -27,6 +27,7 @@ The player can advance to a level only if he/she has reached the amount of exper
 Contact:
 > gazdagadam@gmail.com
 
+\
 ### /// HUNGARIAN ///
 
 A játéknak van egy menüje 3 lehetőséggel:
