@@ -1,7 +1,8 @@
 # Blackjack 21
+[Eng](#english) / [Hun](#hungarian) 
 
-### /// ENGLISH ///
-
+### ENGLISH
+---
 The game has a menu with 3 options:
 - **Play**
 - **Statistics**
@@ -23,13 +24,8 @@ The player can advance to a level only if he/she has reached the amount of exper
 - **Lose or Bust:** _+1xp_
 - **If you get a BLACKJACK:** additional _+3xp_ to the final result
 
-\
-Contact:
-> gazdagadam@gmail.com
-
-
-### /// HUNGARIAN ///
-
+### HUNGARIAN
+---
 A játéknak van egy menüje 3 lehetőséggel:
 - **Játék**
 - **Statisztikák**
@@ -50,7 +46,3 @@ Szintet csak akkor léphet a játékos ha elérte a következő szinthez szüks�
 - **Döntetlen:** _+2xp_
 - **Veszít vagy besokall:** _+1xp_
 - **Ha BLACKJACK-et kap:** végeredményhez hozzáadott _+3xp_
-
-\
-Elérhetőség:
-> gazdagadam@gmail.com

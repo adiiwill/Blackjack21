@@ -68,7 +68,7 @@ namespace Blackjack21
         }
 
         /// <summary>
-        /// Decides the ace value.
+        /// Sets the ace's value.
         /// </summary>
         /// <param name="value">The value to change the ace to.</param>
         public void SetAceValue(int value)
